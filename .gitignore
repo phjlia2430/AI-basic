@@ -1,0 +1,11 @@
+# 대용량 파일 제외
+08_Detection/VIRAT_CCTV2.mp4
+08_Detection/yolov3.weights
+09_Segmentation/yolov8m-seg.pt
+hw2video/video.mp4
+hw2/yolov8m-seg.pt
+
+# 특정 확장자 전체 제외
+*.mp4
+*.pt
+*.weights
